@@ -4,9 +4,15 @@
 
 The Lead Tracker Chrome Extension is a valuable asset for professionals and businesses seeking to streamline their lead management process directly from their browser. With intuitive features and seamless integration, this extension simplifies the task of capturing and organizing lead information.
 
+![Screenshot from 2024-03-19 11-07-31](https://github.com/waltertaya/LeadTrackerExtension/assets/126944679/2c44cb0e-97b6-4c18-a38c-ddc396c14615)
+
+
 ## Usage
 
 The Lead Tracker Chrome Extension offers effortless lead capture and management with the following features:
+
+![Screenshot from 2024-03-19 11-06-39](https://github.com/waltertaya/LeadTrackerExtension/assets/126944679/701d437d-334d-4843-b3b8-0da5ea0ef3fd)
+
 
 - **Efficient Lead Capture**: Whether you're browsing a webpage or actively engaging with leads, the extension provides two convenient methods for capturing lead URLs. You can manually enter the URL into the input field and save it with the click of a button, or use the "Save Tab" button to automatically capture the URL of the active tab.
   
